@@ -1,3 +1,2 @@
 #!/usr/bin/bash
-. /etc/os-release
-printf "%s" "$ID"
+lsb_release -si
