@@ -1,3 +1,3 @@
 #!/usr/bin/bash
 . /etc/os-release
-echo $ID
+printf "%s" "$ID"
