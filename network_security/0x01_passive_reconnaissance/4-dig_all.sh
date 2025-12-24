@@ -1,2 +1,2 @@
 #!/bin/bash
-dig ANY google.com +noall +answer
+dig any google.com +noall +answer
